@@ -24,3 +24,14 @@ This project analyzes an IT Helpdesk dataset containing **152 support tickets** 
 1. **`Helpdesk Tickets`**: Raw dataset along with summary KPI calculations and functions.
 2. **`Issue Types`**: Pivot Table and Column Chart highlighting the most frequent IT issues.
 3. **`Agent Workload`**: Pivot Table and Column Chart analyzing ticket distribution per support agent.
+
+## 📈 Project Visuals & Screenshots
+
+### 1. Main Data & Summary KPI Calculations
+![Main Data](data-sheet.png)
+
+### 2. Issue Types Analysis
+![Issue Types Chart](issue-chart.png)
+
+### 3. Agent Workload Analysis
+![Agent Workload Chart](agent-chart.png)
